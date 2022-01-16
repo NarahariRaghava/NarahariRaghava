@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Narahari Raghava</b>
+</h1>
+
+Hey! I'm Narahari Raghava, a student currently pursuing my undergrad.
+
+
+<br>
+
+
+
+```python
+class NarahariRaghava():
+    
+  def __init__(self):
+    self.name = "Narahari Raghava";
+    self.username = "Narahari Raghava";
+    self.location = "Hyderabad, India";
+    self.twitter = "@NarahariRaghav1";
+    self.web = "https://narahariraghava.github.io";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = NarahariRaghava()
+```
+
+
 
 <!--
-**NarahariRaghava/NarahariRaghava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
 -->
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://narahariraghava.github.io">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NarahariRaghava&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NarahariRaghava&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
