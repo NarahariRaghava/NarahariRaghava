@@ -2,7 +2,7 @@
   <b>Narahari Raghava</b>
 </h1>
 
-Hey! I'm Narahari Raghava, a student currently pursuing my undergrad.
+Hey! I'm Narahari Raghava<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,currently pursuing my undergrad.
 
 
 <br>
