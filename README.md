@@ -33,7 +33,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="www.narahariraghava.com">
+  <a href="http://www.narahariraghava.com">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NarahariRaghava&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NarahariRaghava&theme=gruvbox&hide_border=true" />
   </a>
