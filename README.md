@@ -17,7 +17,7 @@ class NarahariRaghava():
     self.username = "NarahariRaghava";
     self.location = "Hyderabad, India";
     self.twitter = "@NarahariRaghav1";
-    self.web = "https://narahariraghava.github.io";
+    self.web = www.narahariraghava.com;
   
   def __str__(self):
     return self.name
