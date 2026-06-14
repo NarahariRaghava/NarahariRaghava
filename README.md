@@ -1,4 +1,4 @@
-## Hi, I'm Narahari 👋
+## Hi, I'm Narahari Raghava 👋
 
 Cloud security engineer turned grad student - 2+ years securing cloud infrastructure at scale, now deepening that into an M.Eng. in Cybersecurity at UMD. Currently exploring how that translates into open source.
 
