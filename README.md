@@ -14,12 +14,29 @@ Cloud security engineer turned grad student - 2+ years securing cloud infrastruc
 
 ### Open Source
 
+### Open Source
+
 > 🦞 **[openclaw/openclaw](https://github.com/openclaw/openclaw) · 378k+ ⭐**
 >
 > **[PR #92773](https://github.com/openclaw/openclaw/pull/92773) — `fix(tui): show resolved canonical model ref in /model confirmation`**
 >
 > Fixed a TUI bug where `/model` confirmations displayed the raw alias instead of the gateway-resolved canonical model reference.
-
+>
+> **[PR #95485](https://github.com/openclaw/openclaw/pull/95485) — `fix(ui): roll compact token values over from k to M at the million boundary`**
+>
+> Fixed compact token formatter displaying "1000k" instead of "1M" when values crossed the million threshold.
+>
+> **[PR #96565](https://github.com/openclaw/openclaw/pull/96565) — `fix(media): strip internal UUID suffix from outbound media filenames`**
+>
+> Fixed outbound media filenames leaking internal UUID cache suffixes on Telegram, Slack, and Discord.
+>
+> **[PR #100047](https://github.com/openclaw/openclaw/pull/100047) — `fix(gateway): byte-safe UTF-8 truncation for WebSocket close reasons`**
+>
+> Fixed close reason truncation splitting multi-byte UTF-8 characters at the RFC 6455 123-byte boundary, causing garbled text in handshake failure messages.
+>
+> **[PR #100096](https://github.com/openclaw/openclaw/pull/100096) — `fix(infra): progressive rollover in session maintenance warning duration formatter`**
+>
+> Fixed duration formatter showing "60 minutes" and "24 hours" instead of "1 hour" and "1 day" for near-boundary values in warn-only maintenance messages.
 ---
 
 ### Stats
