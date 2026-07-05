@@ -12,7 +12,6 @@ Cloud security engineer turned grad student - 2+ years securing cloud infrastruc
 
 ---
 
-### Open Source
 
 ### Open Source
 
